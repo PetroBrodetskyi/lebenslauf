@@ -165,7 +165,7 @@ header {
 .info {
     display: flex;
     flex-direction: column;
-    gap: 14px;
+    gap: 6px;
     height: 100vh;
     padding: 26px;
 }
